@@ -16,7 +16,6 @@ I am an IT undergraduate with a strong interest in full stack development and pr
 * Actively preparing for software development and full stack internships
 
 
-
 ## Technical Skills
 
 * Languages: JavaScript, C++, Python, C
@@ -34,7 +33,6 @@ I am an IT undergraduate with a strong interest in full stack development and pr
 * GeeksforGeeks: 2 star coder
 * Solved 1000+ DSA problems (arrays, strings, trees, graphs, DP)
 * Flipkart Grid Robotics Challenge: Qualified Round 1
-
 
 
 
